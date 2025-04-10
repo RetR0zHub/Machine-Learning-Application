@@ -9,3 +9,7 @@
 ### YouTube Spam Collection Dataset from the UCI Machine Learning Repository is also included but split into 5 sets
 
 Link to where the dataset is provided from: https://archive.ics.uci.edu/dataset/380/youtube+spam+collection
+
+### Also in this Repository is a dataset of all the answers provided in the questionaire
+
+Under the title Impact Of Phishing.xlsx
